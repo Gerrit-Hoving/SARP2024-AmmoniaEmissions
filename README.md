@@ -1,2 +1,2 @@
-# SARP2024-AmmoniaEmissions
-NASA SARP 2024 project on ammonia emissions from feedlots
+# Predicting Ammonia Plume Presence at Feedlots in the San Joaquin Valley from VSWIR Spectroscopy of the Land Surface
+As part of NASA's SARP 2024 program, I had the oppourtunity to study the remote sensing of feedlot ammonia emissions under the guidance of Dr. Dan Sousa and Megan Ward-Baranyay. This repository holds the code and essential data for my study, in which I correlated HyTES-detected plume presence with feedlot surface relfectance values from EMIT. 
